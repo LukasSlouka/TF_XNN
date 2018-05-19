@@ -1,3 +1,10 @@
+# Other
+.idea/
+MNIST_data/
+logs/
+results/
+operators/obj/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
